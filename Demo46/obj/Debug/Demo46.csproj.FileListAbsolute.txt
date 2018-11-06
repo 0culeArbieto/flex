@@ -1,0 +1,9 @@
+C:\Data\NET\Talleres\Sabados2\Demos\Demo46\bin\Debug\Demo46.exe.config
+C:\Data\NET\Talleres\Sabados2\Demos\Demo46\bin\Debug\Demo46.exe
+C:\Data\NET\Talleres\Sabados2\Demos\Demo46\bin\Debug\Demo46.pdb
+C:\Data\NET\Talleres\Sabados2\Demos\Demo46\bin\Debug\Fleck.dll
+C:\Data\NET\Talleres\Sabados2\Demos\Demo46\bin\Debug\General.Librerias.AccesoDatos.dll
+C:\Data\NET\Talleres\Sabados2\Demos\Demo46\bin\Debug\General.Librerias.AccesoDatos.pdb
+C:\Data\NET\Talleres\Sabados2\Demos\Demo46\obj\Debug\Demo46.csprojResolveAssemblyReference.cache
+C:\Data\NET\Talleres\Sabados2\Demos\Demo46\obj\Debug\Demo46.exe
+C:\Data\NET\Talleres\Sabados2\Demos\Demo46\obj\Debug\Demo46.pdb
